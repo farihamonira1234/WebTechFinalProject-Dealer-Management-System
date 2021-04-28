@@ -1,0 +1,38 @@
+a:link, a:visited {
+  background-color: transparent;
+  color: magenta;
+  padding: 15px 25px;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover {
+  color: yellow;
+  background-color: black;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+table, th, td {
+	border: 1px solid black;
+}
+table{
+	border-spacing: 10px;
+}
+th, td {
+	padding: 10px;
+	text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
