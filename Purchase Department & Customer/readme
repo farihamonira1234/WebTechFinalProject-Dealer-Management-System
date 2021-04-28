@@ -1,0 +1,26 @@
+
+
+To Log In As An Admin
+	Username = Admin
+	Password = abcdefgh@
+	Email 	 = admin@gmail.com
+
+
+To Log In As A Purchase Department Stuff
+	Username = Stuff1
+	Password = abcdefgh@
+	Email 	 = stuff1@gmail.com
+
+
+To Log In As A Customer
+	Username = Customer1
+	Password = abcdefgh@
+	Email 	 = customer1@gmail.com
+
+			 or
+
+	Username = Customer2
+	Password = abcdefgh@	
+	Email 	 = customer2@gmail.com
+
+**Email Can Be Used For Login When User Forgets Password
