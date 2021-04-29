@@ -1,0 +1,48 @@
+
+ .frmdesign
+{
+    position: fixed; 
+    border-style: solid;
+    height: 450px;
+    width: 450px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    top: 20%;
+    left: 35%;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 16px;
+    margin: 0 auto;
+
+}
+.in
+{
+  padding: 5px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 70%;
+}
+.btn
+{
+    background-color: white;
+    width: 40%;
+    border-radius: 5px;
+    height: 25px;
+}
+.btn:hover
+{
+    background-color:gray;
+    cursor: pointer;
+}
+#error_message{
+  margin-bottom: 20px;
+  background: #fe8b8e;
+  padding: 0px;
+  text-align: center;
+  font-size: 14px;
+  transition: all 0.5s ease;
+}

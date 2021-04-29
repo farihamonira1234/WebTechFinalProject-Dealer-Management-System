@@ -1,0 +1,52 @@
+Body {  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: rgba(100, 100, 100, 0.5);
+}  
+button {   
+        background-color: #4CAF50;   
+        width: 50%;  
+        color: orange;   
+        padding: 15px;   
+        margin: 10px 0px;   
+        border: none;   
+        cursor: pointer;   
+         }   
+ form {   
+        border: 3px solid ;   
+    }   
+ input[type=text], input[type=password] {   
+        width: 50%;   
+        margin: 8px 0;  
+        padding: 12px 20px;   
+        display: inline-block;   
+        border: 2px solid green;   
+        box-sizing: border-box;   
+    }  
+ button:hover {   
+        color: gray;   
+    }     
+     
+ .container {   
+        padding: 25px;   
+        background-color: lightblue;  
+    }   
+
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+td {
+  text-align: center;
+}
+.btn
+{
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  display: flex;
+}
